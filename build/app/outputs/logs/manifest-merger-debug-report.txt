@@ -1,0 +1,115 @@
+-- Merging decision tree log ---
+application
+INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml:8:5-46:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bf53dd0530b3b8295a4c222dc9557661\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bf53dd0530b3b8295a4c222dc9557661\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\ea995b95fe19c4ff9779ca6042c1ba50\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\ea995b95fe19c4ff9779ca6042c1ba50\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\30b0a3a889cb8bc7799d210fd5fd1113\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\30b0a3a889cb8bc7799d210fd5fd1113\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\ea995b95fe19c4ff9779ca6042c1ba50\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml:1:1-47:12
+INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml:1:1-47:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\8fd2e3fdc62f06683610d3359ddb2ed6\window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bf53dd0530b3b8295a4c222dc9557661\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\80d5a387e087222022764e24f99adb6c\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bb5de849b281ecae45ee8d1e56a3432e\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\fc418bd87172b180877dea29813c955f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\9afc37ee075d8a169f849ae16775c580\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\19703d71a326a4e5f2cad0a0d24140f5\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\ea995b95fe19c4ff9779ca6042c1ba50\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\7d2fb6f829eb74c514d6bf045ef56576\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\9f02b55a60ffd75bf839c8ed0e127147\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\335dfeb04fbbf73eaae2da3610068f4b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\5d46a3ea5079d12813af5ed6da74c3d5\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\89f03b0df1b379ea89c282c13eff9ec5\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\b4bbb5b878785e80f677b6dad77fdc32\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\30b0a3a889cb8bc7799d210fd5fd1113\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\0ce4a7b38b6251735333328af204ccec\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\140670c25a6d157585716017b89fddc1\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml:2:5-45
+		INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml:1:1-47:12
+		INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\8fd2e3fdc62f06683610d3359ddb2ed6\window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\8fd2e3fdc62f06683610d3359ddb2ed6\window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bf53dd0530b3b8295a4c222dc9557661\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bf53dd0530b3b8295a4c222dc9557661\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\80d5a387e087222022764e24f99adb6c\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\80d5a387e087222022764e24f99adb6c\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bb5de849b281ecae45ee8d1e56a3432e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bb5de849b281ecae45ee8d1e56a3432e\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\fc418bd87172b180877dea29813c955f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\fc418bd87172b180877dea29813c955f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\9afc37ee075d8a169f849ae16775c580\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\9afc37ee075d8a169f849ae16775c580\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\19703d71a326a4e5f2cad0a0d24140f5\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\19703d71a326a4e5f2cad0a0d24140f5\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\ea995b95fe19c4ff9779ca6042c1ba50\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\ea995b95fe19c4ff9779ca6042c1ba50\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\7d2fb6f829eb74c514d6bf045ef56576\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\7d2fb6f829eb74c514d6bf045ef56576\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\9f02b55a60ffd75bf839c8ed0e127147\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\9f02b55a60ffd75bf839c8ed0e127147\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\335dfeb04fbbf73eaae2da3610068f4b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\335dfeb04fbbf73eaae2da3610068f4b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\5d46a3ea5079d12813af5ed6da74c3d5\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\5d46a3ea5079d12813af5ed6da74c3d5\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\89f03b0df1b379ea89c282c13eff9ec5\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\89f03b0df1b379ea89c282c13eff9ec5\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\b4bbb5b878785e80f677b6dad77fdc32\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\b4bbb5b878785e80f677b6dad77fdc32\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\30b0a3a889cb8bc7799d210fd5fd1113\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\30b0a3a889cb8bc7799d210fd5fd1113\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\0ce4a7b38b6251735333328af204ccec\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\0ce4a7b38b6251735333328af204ccec\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\140670c25a6d157585716017b89fddc1\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\140670c25a6d157585716017b89fddc1\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\debug\AndroidManifest.xml
+INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from E:\fluter apk\SubmisionFlutterPemula\SubmissionFlutterPemula-master\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bf53dd0530b3b8295a4c222dc9557661\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bf53dd0530b3b8295a4c222dc9557661\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bf53dd0530b3b8295a4c222dc9557661\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bf53dd0530b3b8295a4c222dc9557661\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bf53dd0530b3b8295a4c222dc9557661\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Mawon\.gradle\caches\transforms-2\files-2.1\bf53dd0530b3b8295a4c222dc9557661\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
