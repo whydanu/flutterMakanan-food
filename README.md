@@ -1,8 +1,5 @@
 # flutterpemuladicoding
 membuat swipe dan overview
-menampilkan profiel
-menampilkan splascreen
-menampilkan perhitungan makanan
-
+tampilan movvie app
 support saya 
 enjoy :)
